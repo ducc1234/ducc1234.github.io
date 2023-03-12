@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+    padding: 20px;
+    background: grey;
+}
+li{
+    display: inline;
+    padding: 10px;
+    font-size: 18px;
+}
+a{
+    color: white;
+}
+h1{
+    font-family: impact;
+    font-size: 50px;
+}
+h2{
+    font-family: arial black;
+    padding: 30px;
+    font-size: 30px;
+    
+}
+h3{
+    padding: 30px;
+}
+h4{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    font-family: arial black;
+    display: inline-block;
+}
+h5{
+    display: inline-block;
+    flex-direction: column;
+    padding: 40px;
+    font-size: 20px;
+    font-family: arial black;
+}
+h6{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    font-family: arial;
+}
+img{
+    max-width: 100px;
+}
